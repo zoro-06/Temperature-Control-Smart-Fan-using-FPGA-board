@@ -65,19 +65,8 @@ The system is built on a **Xilinx Artix-7 FPGA (Basys3 board)**. It processes th
 
 ---
 
-## 📁 Project File Structure
-
-* `temperature_fan.xpr`: The main Xilinx Vivado project file.
-* `temperature_fan.srcs/`: Contains all Verilog source files (`top_module.v`, `i2c_master.v`, `pwm_generator.v`, `tachometer_reader.v`, etc.).
-* `temperature_fan.srcs/constrs_1/`: Contains the constraints file (`const_fan_controller.xdc`) which maps the Verilog ports to the physical pins on the Basys3 board.
-* `temperature_fan.runs/`: This directory stores the output files from the synthesis and implementation runs.
-* `temperature_fan.cache/`: Vivado project cache.
-* `README.md`: This file.
-
----
-
 ## 🎥 Demo Video
 
 See the system in action!
 
-[**<-- Link to your demo video here -->**]
+[**https://drive.google.com/file/d/1c7jFqjlb1qJTlHyhOd4TKm6hhEe-FIGO/view?usp=sharing**]
