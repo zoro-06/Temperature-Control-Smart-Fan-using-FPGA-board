@@ -67,6 +67,6 @@ The system is built on a **Xilinx Artix-7 FPGA (Basys3 board)**. It processes th
 
 ## 🎥 Demo Video
 
-See the system in action!
+See the system in action!!
 
 [**https://drive.google.com/file/d/1c7jFqjlb1qJTlHyhOd4TKm6hhEe-FIGO/view?usp=sharing**]
