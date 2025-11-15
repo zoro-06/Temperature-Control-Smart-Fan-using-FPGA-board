@@ -65,6 +65,12 @@ The system is built on a **Xilinx Artix-7 FPGA (Basys3 board)**. It processes th
 
 ---
 
+## Report
+
+[**https://drive.google.com/file/d/1Hu0GmsCAHnkEPb0fpzGAgFDZxuSnQBEQ/view?usp=sharing**]
+
+---
+
 ## 🎥 Demo Video
 
 See the system in action!!
